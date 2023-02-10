@@ -1,0 +1,85 @@
+
+.py_main{
+    position: relative;
+    width: 100%;
+    height: 760px;
+    background: url(v7g6ime1wtk61.webp);
+    background-size: cover;
+}
+.py_main h2{
+    color: rgb(75, 135, 190);
+    position: absolute;
+    top: 150px;
+    left: 60px;
+    font-size: 40px;
+}
+.py_main p{
+    color: rgba(255, 212,59,1);
+    position: absolute;
+    top: 220px;
+    width: 27%;
+    left: 75px;
+    text-align: justify;
+    text-transform: capitalize;
+    line-height: 30px;
+}
+#con-1{
+    color: rgb(75, 135, 190);
+    position: absolute;
+    top: 430px;
+    left: 60px;
+    font-size: 40px;
+}
+.con_down1 {
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    text-transform: capitalize;
+}
+.con_down1 li{
+    color: rgb(255, 212,59);
+    line-height: 30px;
+    list-style-type:disc;
+}
+.py_con{
+    z-index: -1;
+    width: 100%;
+    height: 780px;
+    background:url(https://wallpaperaccess.com/full/1294277.jpg);
+    background-size: cover;
+    position: relative;
+}
+.py_con h2{
+    color: rgb(75, 135, 190);
+    position: absolute;
+    top: 150px;
+    left: 60px;
+    font-size: 40px;
+}
+.py_con p{
+    width: 33%;
+    text-align: justify;
+    position: absolute;
+    top: 220px;
+    left:75px;
+    color: rgb(255, 212,59);
+    line-height: 30px;
+}
+#con-2{
+    color: rgb(75, 135, 190);
+    position: absolute;
+    font-size: 40px;
+    top: 485px;
+    right: 10px;
+}
+.con_down2{
+    position: absolute;
+    color: rgb(255, 212,59);
+    top: 560px;
+    left: 65px;
+    line-height: 30px;
+    font-size: 20px;
+}
+.con_down2 li{
+    list-style-type: disc;
+}
